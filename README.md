@@ -1,2 +1,2 @@
 # Power-BI
-A repository to store my Power BI projects which will be in the .pbix format. 
+A repository to store Power BI projects.
